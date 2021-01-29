@@ -10,6 +10,7 @@ map{ id = "examples/light_world/lumberjacks_house", description = "Lumberjacks H
 map{ id = "examples/light_world/sw_entry_to_lost_woods", description = "SW Entry to Lost Woods" }
 map{ id = "first_map", description = "First map" }
 map{ id = "inside_store", description = "Inside Store" }
+map{ id = "outside", description = "outside world" }
 map{ id = "outside_store", description = "Outside Store" }
 map{ id = "test_map/dungeon_entrance" }
 map{ id = "test_map/test_map", description = "A test map" }
@@ -772,6 +773,8 @@ file{ path = "maps/first_map.dat", author = "Christopho", license = "CC BY-SA 4.
 file{ path = "maps/first_map.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "maps/inside_store.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "maps/inside_store.lua", author = "Christopho", license = "GPL v3" }
+file{ path = "maps/outside.dat", author = "seeker", }
+file{ path = "maps/outside.lua", author = "seeker", }
 file{ path = "maps/outside_store.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "maps/outside_store.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "maps/test_map", author = "Mehdi Khelifi", license = "GPL v3, CC BY-SA 4.0" }
